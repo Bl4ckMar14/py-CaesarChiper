@@ -13,6 +13,10 @@ Simple Caesar Cipher tool built from scratch using Python.
 ## How to run
 
 ```bash
+pip install -r requirements.txt
+```
+
+```bash
 python3 caesar_cipher.py
 ```
 
