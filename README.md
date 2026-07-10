@@ -37,13 +37,3 @@ Shift:
 Output:
 
 KHOOR ZRUOG
-
-## What I learned
-
-- ord()
-- chr()
-- modulo (%)
-- if / elif / else
-- functions
-- loops
-- code refactoring
